@@ -1,0 +1,17 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "adsaf",
+  "main": "01_hello_world.js",
+  "repository": "github",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "through2-map": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
